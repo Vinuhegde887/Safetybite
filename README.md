@@ -47,3 +47,6 @@ Your app is ready to be deployed !!<br/>
 <hr/>
 <br>
 
+## NOTE
+The node_modules are not included due to large files and
+which are not uploaded.
